@@ -1,0 +1,48 @@
+@import '../../vars.css';
+
+.container{
+    color: var(--color-text);
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.icon{
+    width: 30px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-bottom: 0;
+}
+
+.tagline h4{
+    text-align: center;
+    margin: 10px;
+    letter-spacing: 1.5px;
+}
+
+.copyright{
+    display: flex;
+    flex-direction: row;
+    /* text-align: center; */
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+}
+
+@media screen and (max-width:830px){
+    .container{
+        margin-top: 0;
+    }
+    .copyright{
+        flex-direction: column;
+    }
+}
+

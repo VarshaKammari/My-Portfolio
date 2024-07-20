@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Language Learning Platform",
+        "imageSrc":"project/project.png",
+        "description":"This is a team project.It helps the users to learn telugu language.",
+        "skills":["ReactJS","NodeJS","ExpressJS","MongoDB","JWT"],
+        "demo":"https://www.example.com",
+        "source":"https://www.github.com"
+    },
+    {
+        "title":"Portfolio",
+        "imageSrc":"project/project.png",
+        "description":"This is a project made to show case my skills.",
+        "skills":["ReactJS","CSS","EmailJS"],
+        "demo":"https://www.example.com",
+        "source":"https://www.github.com"
+    },
+    {
+        "title":"Simon Says",
+        "imageSrc":"project/project.png",
+        "description":"It is a project made using JavaScript DOM manipulations.",
+        "skills":["HTML","CSS","JavaScript"],
+        "demo":"https://www.example.com",
+        "source":"https://www.github.com"
+    }
+]
