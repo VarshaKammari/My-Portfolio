@@ -12,8 +12,8 @@
         "imageSrc":"project/project.png",
         "description":"This is a project made to show case my skills.",
         "skills":["ReactJS","CSS","EmailJS"],
-        "demo":"https://www.example.com",
-        "source":"https://www.github.com"
+        "demo":"https://varsha-kammari-portfolio.netlify.app/",
+        "source":"https://github.com/VarshaKammari/My-Portfolio"
     },
     {
         "title":"Simon Says",
